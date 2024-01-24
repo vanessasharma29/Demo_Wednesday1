@@ -15,6 +15,7 @@ public class Git_Demo_Wednesday1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        // demo 1 created 
     }
     
 }
