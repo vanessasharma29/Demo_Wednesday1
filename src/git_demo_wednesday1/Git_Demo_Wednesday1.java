@@ -7,6 +7,7 @@ package git_demo_wednesday1;
 /**
  *
  * @author vanes
+   @author1
  */
 public class Git_Demo_Wednesday1 {
 
